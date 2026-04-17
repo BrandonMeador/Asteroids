@@ -11,3 +11,4 @@ wheels/
 
 #Game State Logs
 game_state.jsonl
+game_events.jsonl
